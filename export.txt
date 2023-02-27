@@ -1,0 +1,2 @@
+auto-py-to-exe
+pyinstaller --onefile --icon=simgeler.ico betik_adi.py
